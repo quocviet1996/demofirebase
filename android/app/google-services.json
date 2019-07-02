@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085586284088",
+    "firebase_url": "https://reactnativetutorial-99097.firebaseio.com",
+    "project_id": "reactnativetutorial-99097",
+    "storage_bucket": "reactnativetutorial-99097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085586284088:android:aab3615eee92c8a9",
+        "android_client_info": {
+          "package_name": "com.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085586284088-o4na6c9c8o73e2nn6aa07u2tadb3h2a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBS4Xln4P5-F84FfuCKPDfI1IqH37tnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085586284088-o4na6c9c8o73e2nn6aa07u2tadb3h2a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
